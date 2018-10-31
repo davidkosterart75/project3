@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css?family=Poor+Story');
+
+body {
+  margin: 30px auto;
+  max-width: 1000px;
+font-family: 'Poor Story', cursive;
+  line-height: 1.5;
+  padding: 30px 20px;
+  text-align: center;
+  align-content: center;
+}
+body {
+  background-image: image();
+}
+
+/* heading text */
+h3 {
+  padding: 20px 0px 10px 0px;
+}
+
+/* link text */
+a {
+  color: hotpink;
+  text-decoration: none;
+}
+
+/* Centers images */
+img {
+  display: block;
+  margin: 0px auto;
+}
