@@ -1,31 +1,39 @@
-@import url('https://fonts.googleapis.com/css?family=Poor+Story');
-
-body {
-  margin: 30px auto;
-  max-width: 1000px;
-font-family: 'Poor Story', cursive;
-  line-height: 1.5;
-  padding: 30px 20px;
-  text-align: center;
-  align-content: center;
+element.style {
 }
-body {
-  background-image: image();
+.line-content {
+    padding: 0px 5px !important;
 }
-
-/* heading text */
-h3 {
-  padding: 20px 0px 10px 0px;
+td {
+    vertical-align: baseline;
+    padding: 0px !important;
 }
-
-/* link text */
-a {
-  color: hotpink;
-  text-decoration: none;
+td, th {
+    display: table-cell;
+    vertical-align: inherit;
 }
-
-/* Centers images */
-img {
-  display: block;
-  margin: 0px auto;
+table {
+    width: 100%;
+    word-break: break-word;
+    font-size: initial;
+    font-family: monospace;
+    tab-size: 4;
+    white-space: pre-wrap !important;
+    border-spacing: 0px;
+    margin: 0px;
+}
+table {
+    white-space: normal;
+    line-height: normal;
+    font-weight: normal;
+    font-size: medium;
+    font-style: normal;
+    color: -internal-quirk-inherit;
+    text-align: start;
+    font-variant: normal;
+}
+table {
+    display: table;
+    border-collapse: separate;
+    border-spacing: 2px;
+    border-color: grey;
 }
